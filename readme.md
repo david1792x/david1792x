@@ -1,5 +1,6 @@
 - 👋 Hi, I’m **David Jiménez Rodríguez (@david1792x)**
-- 👀 I’m interested in **data science, machine learning** and **electronics**
+- 📚 I'm currently in my **6th** semester of **electrical engineering** in **UABC**
+- 👀 I’m interested in **data science, machine learning** and **analog circuit design**
 - 🌱 I’m currently learning **image and audio processing, SQL** and **mathematics** for machine learning
 - 💞️ I’m looking to collaborate on **machine learning projects**
 
